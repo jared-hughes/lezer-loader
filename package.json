@@ -1,0 +1,24 @@
+{
+  "name": "lezer-loader",
+  "version": "0.1.0",
+  "description": "Lezer loader module for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jared-hughes/lezer-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "lezer",
+    "loader"
+  ],
+  "author": "Jared Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jared-hughes/lezer-loader/issues"
+  },
+  "homepage": "https://github.com/jared-hughes/lezer-loader#readme",
+  "peerDependencies": {
+    "@lezer/generator": "^0.15.4"
+  }
+}
