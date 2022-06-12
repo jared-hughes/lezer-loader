@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jared-hughes/lezer-loader#readme",
   "peerDependencies": {
-    "@lezer/generator": "^0.15.4"
+    "@lezer/generator": "^1.0.0"
   }
 }
